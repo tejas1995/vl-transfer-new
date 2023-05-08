@@ -1,5 +1,6 @@
 from .memory_colors import MemoryColorsDataset
 from .vicomte import VicomteDataset
+from .our_data import WinoVizDataset
 
 COLOR_PROBE_TEMPLATES = [
                  "Q: What is the color of [DESCRIPTOR] [ITEM]? A: It is [MASK]. ",
