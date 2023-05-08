@@ -13,8 +13,8 @@ from collections import defaultdict
 
 import openai
 
-OPENAI_API_KEY = "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"
-OPENAI_ORG_KEY = "org-QEYolz3LMPlBl64aD13M8lMU"
+OPENAI_API_KEY = ""
+OPENAI_ORG_KEY = ""
 
 openai.organization = OPENAI_ORG_KEY
 openai.api_key = OPENAI_API_KEY
